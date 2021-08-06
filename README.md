@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @iliastsonis!
+- 💞️ My favourite things are computers, music, chess and coffee.
+- 🔭 I’m currently working on improving my Python skills.
+- 🌱 After I've become comfortable with using Python I would like to start learning Java.
+- 👯 I'm looking to collaborate on any project which would ultimately help me become a better programmer.
+- 📫 You can reach me through discord: Red Eye#4904
